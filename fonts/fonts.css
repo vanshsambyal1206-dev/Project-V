@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(font-1.woff2) format('woff2');
+  unicode-range: U+20-7d, U+b7, U+d7, U+201c-201d, U+2197, U+2212, U+2303, U+805a;
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(font-1.woff2) format('woff2');
+  unicode-range: U+20-7d, U+b7, U+d7, U+201c-201d, U+2197, U+2212, U+2303, U+805a;
+}
+@font-face {
+  font-family: 'Noto Serif TC';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(font-2.woff2) format('woff2');
+  unicode-range: U+20-7d, U+b7, U+d7, U+201c-201d, U+2197, U+2212, U+2303, U+805a;
+}
